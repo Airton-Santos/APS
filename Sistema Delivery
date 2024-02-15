@@ -1,0 +1,25 @@
+Aula 01
+
+Sistema delivery
+
+Atores = clientes de todas as idades, empresas parceiras
+
+Requisitos funcionais = 
+
+Clientes {
+- Numero de telefone
+- Entrega
+- Formas de pagamentos (cartão credito ou debito, especie, pix)
+- Chat para mais informações
+- CPF
+- Entrega do produto pronto para o consumo
+}
+
+Empresas Parceiras {
+- Contato por email ou telefone direto com gerente para solicitação
+- Entrega
+- Constar oquê foi pego o quanto foi retirado e pego do armazém
+-CNPJ
+-Entrega de ingredites ou prdutos primários
+-Chat para mais informações
+}
